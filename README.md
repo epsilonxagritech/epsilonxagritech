@@ -21,3 +21,9 @@
 
 👋 Hi, I’m Chiho 
 ☎️ You can contact me via `bizism@gmail.com`
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
