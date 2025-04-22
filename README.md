@@ -1,16 +1,23 @@
-## Hi there 👋
+# hello, world
 
-<!--
-**epsilonxagritech/epsilonxagritech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- 소셜 뱃지: shields.io 또는 직접 만든 아이콘 -->
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=about.me" alt="website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto:you@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="gmail"/>
+  </a>
+  <a href="https://github.com/bizism" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="github"/>
+  </a>
+  <a href="https://devpost.com/your-devpost" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-blue?style=for-the-badge&logo=devpost" alt="devpost"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Chiho 
+☎️ You can contact me via `bizism@gmail.com`
